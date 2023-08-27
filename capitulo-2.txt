@@ -11,7 +11,6 @@ Con nuevas pistas en mano, Alex se aventuró nuevamente a través de los vórtic
 propios desafíos y pruebas, pero Alex demostró su destreza una y otra vez, utilizando su conocimiento de la 
 programación para desentrañar códigos complejos y resolver problemas que parecían insuperables.
 
-
 En uno de los mundos, se encontró con una entidad de luz que parecía estar compuesta de líneas de código dorado. 
 Esta entidad, llamada Luminara, le habló en un lenguaje de patrones de código entrelazados. 
 Con paciencia y determinación, Alex logró comunicarse con ella, descubriendo que Luminara era uno de los guardianes que 
